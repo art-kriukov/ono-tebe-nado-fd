@@ -31,16 +31,6 @@
   height: 105px;
 }
 
-.contacts {
-  margin-left: 148px;
-}
-
-.contacts__list {
-  gap: 3px;
-  line-height: 24px;
-  list-style: none;
-}
-
 .hero {
   min-height: 757px;
   color: #FFFFFF;
