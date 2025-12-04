@@ -5,11 +5,6 @@
   line-height: 100%;
 }
 
-.page {
-  width: 1100px;
-  margin: 0 auto;
-}
-
 .header {
   display: flex;
   align-items: center;
