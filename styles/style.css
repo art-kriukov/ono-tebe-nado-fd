@@ -225,3 +225,30 @@
 .about__text p:last-child {
   width: 693px;
 }
+
+.footer {
+  display: grid;
+  grid-template-columns: 265px 1fr 1fr;
+  justify-content: space-between;
+  margin-top: 180px;
+  padding: 0px 50px 82px;
+  display: flex;
+}
+
+.footer__contacts {
+  margin-left: 0;
+}
+
+.footer-menu__list {
+  text-align: center;
+}
+
+.footer__social-list {
+  display: flex;
+  gap: 48px;
+}
+
+.footer__social-icon {
+  width: 48px;
+  height: 48px;
+}
